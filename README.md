@@ -7,7 +7,7 @@ This repository is the official implementation of our ECCV 2020 paper: [Learning
 Environment:
 You only need to install [Tensorflow 1.13](https://www.tensorflow.org/), and some common-used tools like opencv-python and numpy.
 
-Data:
+Data:\
 KITTI: Download the dataset from [KITTI](http://www.cvlibs.net/datasets/kitti/). To run the code, you need to first split the dataset into training and validation set by your self.(Random partition is OK.)
 
 CityPersons: Download the images from [CityScapes](https://www.cityscapes-dataset.com/) and the annotations from [here](https://bitbucket.org/shanshanzhang/citypersons/)
