@@ -5,7 +5,7 @@ This repository is the official implementation of our ECCV 2020 paper: [Learning
 ## Requirement
 
 Environment:
-You only need to install [Tensorflow 1.13](https://pytorch.org/), and some common-used tools like opencv-python and numpy.
+You only need to install [Tensorflow 1.13](https://www.tensorflow.org/), and some common-used tools like opencv-python and numpy.
 
 Data:
 KITTI: Download the dataset from [KITTI](http://www.cvlibs.net/datasets/kitti/). To run the code, you need to first split the dataset into training and validation set by your self.(Random partition is OK.)
