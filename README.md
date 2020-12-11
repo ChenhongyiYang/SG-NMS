@@ -2,7 +2,7 @@
 
 This repository is the official implementation of our ECCV 2020 paper: [Learning to Separate: Detecting Heavily-Occluded Objects in Urban Scenes](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/3024_ECCV_2020_paper.php)
 
-## Requirement
+## Requirements
 
 Environment:
 You only need to install [Tensorflow 1.13](https://www.tensorflow.org/), and some common-used tools like opencv-python and numpy.
