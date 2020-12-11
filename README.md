@@ -28,10 +28,10 @@ python bin/citypersons/cp_trian.py --log True --gpu 0
 ### 2. Test
 
 ```shell
-% train KITTI
+% test KITTI
 python bin/kitti/kitti_test.py  --gpu 0
 
-% train CityPersons
+% test CityPersons
 python bin/citypersons/cp_test.py --gpu 0
 ```
 
